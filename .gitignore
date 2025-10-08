@@ -1,0 +1,70 @@
+public/
+
+# Logs
+logs/
+*.log
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+.history/
+.project
+.settings/
+
+# Testing
+coverage/
+.nyc_output/
+
+# Temporary files
+tmp/
+temp/
+
+# Package lock files
+package-lock.json
+yarn.lock
+
+# Backup files
+*.bak
+*.backup
+
+# Database local files
+*.sqlite
+*.sqlite3
+
+# Security sensitive files
+*.pem
+*.key
+*.cert
+
+# Compiled binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Dependency caches
+.npm
+.pnp
+.pnp.js
+
+# Serverless
+.serverless/
+
+# Vercel
+.vercel
+
+# Next.js
+.next/
+
+# Nuxt.js
+.nuxt/
+
+# TypeScript build files
+*.tsbuildinfo
+
+# Miscellaneous
+.cache/
+.parcel-cache/
